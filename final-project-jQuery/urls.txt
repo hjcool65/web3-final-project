@@ -1,0 +1,7 @@
+jobs: https://api.myjson.com/bins/b6eod
+
+
+team: https://api.myjson.com/bins/et5gt
+
+
+jobs board: https://api.myjson.com/bins/137x9p
